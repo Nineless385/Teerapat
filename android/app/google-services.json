@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "826834465505",
+    "firebase_url": "https://rmutt-secb-45fab-default-rtdb.firebaseio.com",
+    "project_id": "rmutt-secb-45fab",
+    "storage_bucket": "rmutt-secb-45fab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826834465505:android:27754e9d8f6cc215e6fda0",
+        "android_client_info": {
+          "package_name": "com.example.nineless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoci7x3rRLkJasvJ0c-fqipzxP5RMx2CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
